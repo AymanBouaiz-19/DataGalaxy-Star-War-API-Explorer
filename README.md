@@ -50,7 +50,6 @@ Films: A New Hope, Empire Strikes Back, Return of the Jedi
 
 
 ---
----
 ## 🌐 Roadmap
 
 [x] Core API connection and data extraction
