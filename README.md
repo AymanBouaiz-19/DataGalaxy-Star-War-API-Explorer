@@ -53,6 +53,9 @@ sw.get_planet("Tatooine")
 sw.search_starships("Millennium")
 # => Millennium Falcon | Hyperdrive Rating: 0.5 | Crew: 4
 
+---
+
+
 ## 🌠 Sample Output
 
 ==================== Starship: Millennium Falcon ====================
