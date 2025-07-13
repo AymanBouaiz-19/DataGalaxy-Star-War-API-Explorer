@@ -38,7 +38,7 @@ DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Ha
 
 ---
 
-🌠 Sample Output
+## 🌠 Sample Output
 
 ==================== Starship: Millennium Falcon ====================
 Model: YT-1300 light freighter
