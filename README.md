@@ -37,26 +37,9 @@ DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Ha
 
 ---
 
-## 🧪 Example Usage
-
-```python
-from src.explorer import StarWarsExplorer
-
-sw = StarWarsExplorer()
-
-sw.get_character("Luke Skywalker")
-# => Name: Luke Skywalker | Height: 172 | Starships: X-wing, Imperial shuttle
-
-sw.get_planet("Tatooine")
-# => Planet: Tatooine | Population: 200000 | Climate: arid
-
-sw.search_starships("Millennium")
-# => Millennium Falcon | Hyperdrive Rating: 0.5 | Crew: 4
-
 ---
 
-
-## 🌠 Sample Output
+🌠 Sample Output
 
 ==================== Starship: Millennium Falcon ====================
 Model: YT-1300 light freighter
@@ -68,8 +51,8 @@ Films: A New Hope, Empire Strikes Back, Return of the Jedi
 
 
 ---
-
-## 🌐 Roadmap
+---
+🌐 Roadmap
 
 [x] Core API connection and data extraction
 
@@ -89,7 +72,7 @@ Films: A New Hope, Empire Strikes Back, Return of the Jedi
 
 ---
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 Ayman Bouaziz
 🎓 AI & Software Engineering Student – Faculty of Science and Technology Al Hoceima
