@@ -35,7 +35,6 @@ Whether you're a developer learning external API integration or a fan of the gal
 
 DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Handles API requests and error handling │   ├── parser.py            # Parses and formats JSON response │   ├── explorer.py          # Main program logic (or CLI entry) │   └── utils.py             # Helpers: URL builders, pagination, etc. ├── tests/                   # (Planned) Unit tests ├── assets/                  # Screenshots, output samples ├── requirements.txt └── README.md
 
----
 
 ---
 
@@ -52,7 +51,7 @@ Films: A New Hope, Empire Strikes Back, Return of the Jedi
 
 ---
 ---
-🌐 Roadmap
+## 🌐 Roadmap
 
 [x] Core API connection and data extraction
 
@@ -72,7 +71,7 @@ Films: A New Hope, Empire Strikes Back, Return of the Jedi
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Ayman Bouaziz
 🎓 AI & Software Engineering Student – Faculty of Science and Technology Al Hoceima
