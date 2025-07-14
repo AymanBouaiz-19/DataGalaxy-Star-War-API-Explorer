@@ -33,13 +33,13 @@ Whether you're a developer learning external API integration or a fan of the gal
 
 ## 📁 Project Structure
 
-DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Handles API requests and error handling │   ├── parser.py            # Parses and formats JSON response │   ├── explorer.py          # Main program logic (or CLI entry) │   └── utils.py             # Helpers: URL builders, pagination, etc. ├── tests/                   # (Planned) Unit tests ├── assets/                  # Screenshots, output samples ├── requirements.txt └── README.md
+```DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Handles API requests and error handling │   ├── parser.py            # Parses and formats JSON response │   ├── explorer.py          # Main program logic (or CLI entry) │   └── utils.py             # Helpers: URL builders, pagination, etc. ├── tests/                   # (Planned) Unit tests ├── assets/                  # Screenshots, output samples ├── requirements.txt └── README.md```
 
 
 ---
 
 ## 🌠 Sample Output
-
+```
 ┌────────────────────────────────── Starship Details ──────────────────────────────────┐
 │ Name               : Millennium Falcon                                              │
 │ Model              : YT-1300 light freighter                                        │
@@ -48,7 +48,7 @@ DataGalaxy-StarWarsAPI/ ├── src/ │   ├── fetcher.py           # Ha
 │ Passengers         : 6                                                              │
 │ Films Appeared In  : A New Hope, Empire Strikes Back, Return of the Jedi           │
 └──────────────────────────────────────────────────────────────────────────────────────┘
-
+```
 
 ---
 ## 🌐 Roadmap
